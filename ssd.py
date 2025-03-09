@@ -1,4 +1,4 @@
-import requests
+git apply pull_request_8.patchimport requests
 import re
 import json
 import datetime
